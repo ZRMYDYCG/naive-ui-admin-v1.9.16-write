@@ -1,3 +1,12 @@
+<!--
+ * {"Author":"git config user.name","Date":"Do not edit","LastEditors":"git config user.name","LastEditTime":"Do not edit","Description":""}
+ * {"autoAdd":true,"dateFormat":"YYYY-MM"}
+ * node_modules/typescript/lib
+ * false
+ * false
+ * {"source.fixAll.eslint":"explicit"}
+ * 14
+ -->
 <template>
   <div class="flex flex-col justify-center page-container">
     <div class="text-center">

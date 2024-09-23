@@ -1,3 +1,12 @@
+/**
+ * {"Author":"git config user.name","Date":"Do not edit","LastEditors":"git config user.name","LastEditTime":"Do not edit","Description":""}
+ * {"autoAdd":true,"dateFormat":"YYYY-MM"}
+ * node_modules/typescript/lib
+ * false
+ * false
+ * {"source.fixAll.eslint":"explicit"}
+ * 14
+ */
 import { RouteRecordRaw } from 'vue-router';
 import { Layout } from '@/router/constant';
 import { TableOutlined } from '@vicons/antd';

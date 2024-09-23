@@ -1,3 +1,12 @@
+/**
+ * {"Author":"git config user.name","Date":"Do not edit","LastEditors":"git config user.name","LastEditTime":"Do not edit","Description":""}
+ * {"autoAdd":true,"dateFormat":"YYYY-MM"}
+ * node_modules/typescript/lib
+ * false
+ * false
+ * {"source.fixAll.eslint":"explicit"}
+ * 14
+ */
 import { h } from 'vue';
 import { NAvatar, NTag } from 'naive-ui';
 import { BasicColumn } from '@/components/Table';
